@@ -1,0 +1,25 @@
+body{
+    background-color: burlywood;
+}
+
+p{
+    color: bisque; font-family:Arial, Helvetica, sans-serif; width: 1600px;
+   
+}
+#Dif{ font-family:Verdana, Geneva, Tahoma, sans-serif;color: coral;}
+#Tif{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;color: darkred;}
+
+.Partou{ color: forestgreen;}
+
+
+h1{ color: rgb(163, 141, 113); 
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    width: 1600px;
+}
+image{background-attachment:fixed;
+}
+background-image{
+    Bta-Kochen-Desktop.jpg;
+}

@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.4;
+}
+a {
+  color: black;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+
+#navigationsliste{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+
+}
+#Button{
+    background-color: transparent;
+    border: none;
+
+}
